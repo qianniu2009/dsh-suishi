@@ -52,5 +52,6 @@
     "solar-terms",
     "chinese-calendar",
     "countdown"
-  ]
+  ],
+  "license": "MIT"
 }
