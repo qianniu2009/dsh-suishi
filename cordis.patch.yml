@@ -1,0 +1,5 @@
+# dsh bundle patch for the 岁时 (Suishi) plugin. The Host half is inert: all
+# rendering and the offline almanac data live in the Client module.
+- insert:
+    - id: suishi
+      name: '@local/dsh-suishi'

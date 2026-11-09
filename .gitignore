@@ -1,0 +1,11 @@
+# Node
+node_modules/
+*.log
+
+# 香港天文台原始年表（构建期下载，约 5.6MB；重新获取: node tools/hko/fetch.mjs）
+tools/hko/raw/
+
+# Editor / OS
+.DS_Store
+Thumbs.db
+desktop.ini
