@@ -35,5 +35,22 @@
         "@deepseek-ai/dsh-client-locale"
       ]
     }
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/qianniu2009/dsh-suishi.git"
+  },
+  "homepage": "https://github.com/qianniu2009/dsh-suishi",
+  "bugs": {
+    "url": "https://github.com/qianniu2009/dsh-suishi/issues"
+  },
+  "keywords": [
+    "dsh",
+    "dsh-plugin",
+    "suishi",
+    "lunar-calendar",
+    "solar-terms",
+    "chinese-calendar",
+    "countdown"
+  ]
 }
