@@ -57,6 +57,10 @@ plugin_manager(action: "install_bundle", target: "<克隆目录的绝对路径>"
 > 也可以把本目录复制到 DSH 工作区后安装；插件通过 `link:` 方式挂到 profile，
 > 目录移动后需要重新安装。
 
+## 开发
+
+二次开发（新增功能、改数据、发布版本）见 [DEVELOPING.md](DEVELOPING.md)。
+
 ## 构建
 
 插件是一个纯 JavaScript 的 DSH bundle：Host half（`index.js`）为空实现，所有界面与
